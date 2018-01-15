@@ -25,7 +25,7 @@ SECRET_KEY = 'o*+@j^n(-grsp%f+$#om3(1kz2ch=&pq9skryr3)vu5rh2=wod'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'jota.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', u'JotaMauricio50.pythonanywhere.com']
 
 
 # Application definition
